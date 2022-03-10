@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>the website title shown on the tab</title>
-    <link>https://jocialmedia.github.io/</link>
+    <link>https://jocialmedia.github.io/fun-with-hugo/</link>
     <description>Recent content on the website title shown on the tab</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>© Yuanyuan GE 2020</copyright><atom:link href="https://jocialmedia.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>© Yuanyuan GE 2020</copyright><atom:link href="https://jocialmedia.github.io/fun-with-hugo/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title></title>
-      <link>https://jocialmedia.github.io/contact/</link>
+      <link>https://jocialmedia.github.io/fun-with-hugo/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://jocialmedia.github.io/contact/</guid>
+      <guid>https://jocialmedia.github.io/fun-with-hugo/contact/</guid>
       <description>This is the content of contact.</description>
     </item>
     
